@@ -1,0 +1,7 @@
+make sure image square
+same name
+leaficos = [
+pygame.transform.scale(pygame.image.load("assets/leaf.png").convert_alpha(),(51,33)),
+pygame.transform.scale(pygame.image.load("assets/leaf2.png").convert_alpha(),(51,33)),
+pygame.transform.scale(pygame.image.load("assets/leaf3.png").convert_alpha(),(51,33))
+]
